@@ -1,0 +1,6 @@
+ref: /hwfssz1/ST_MCHRI/CLINIC/SOFTWARES/analysis_pipeline/HPC_chip/db/aln_db/hg19/hg19_chM_male_mask.fa
+vep_sh: /zfssz4/B2C_RD_P2/PMO/fangzhonghai/software/pjg/autopvs1/test/vep.sh
+py3: /zfssz4/B2C_RD_P2/PMO/fangzhonghai/software/anaconda3/envs/python37/bin/python
+vep_lof: /zfssz4/B2C_RD_P2/PMO/fangzhonghai/software/pjg/autopvs1/test/vep_lof_filter.py
+autopvs1: /zfssz4/B2C_RD_P2/PMO/fangzhonghai/software/pjg/autopvs1/test/test.py
+lof: all
